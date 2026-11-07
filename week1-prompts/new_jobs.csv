@@ -1,0 +1,12 @@
+score,company,title,location,posted,matched_on,url,status,applied_on,notes
+25,gitlab,Senior Frontend Engineer,"Bangalore, India",2026-11-06,"react, typescript, javascript, express, angular, redis, rag, agent, docker, remote-first",https://job-boards.greenhouse.io/gitlab/jobs/8826920002,new,,
+23,sardine,Software Engineer - Backend,India,2026-10-14,"node, react, typescript, python, rag, agent, remote-first",https://jobs.ashbyhq.com/sardine/2524d206-42cb-4202-8d85-59e47c72d704,new,,
+23,grafanalabs,"Senior Full Stack Engineer | Database Observability, Grafana Cloud | Germany | Remote",Germany (Remote),2026-11-06,"react, typescript, express, rag, openai, agent, remote-first",https://job-boards.greenhouse.io/grafanalabs/jobs/6250631004,new,,
+18,celonis,Senior Applied AI Solution Engineer,"Munich, Germany",2026-11-01,"python, llm, rag, openai, agent",https://job-boards.greenhouse.io/celonis/jobs/7825688003?gh_jid=7825688003,new,,
+13,gitlab,"Senior Backend Engineer, India","Bangalore, India",2026-11-06,"express, rag, agent, remote-first",https://job-boards.greenhouse.io/gitlab/jobs/8716143002,new,,
+12,celonis,Senior Software Engineer - Engine Orchestration,"Munich, Germany",2026-10-01,"python, microservice, rag, agent",https://job-boards.greenhouse.io/celonis/jobs/8000343003?gh_jid=8000343003,new,,
+11,gitlab,"Intermediate Backend Engineer, India","Bangalore, India",2026-11-06,"express, rag, docker, remote-first",https://job-boards.greenhouse.io/gitlab/jobs/8775507002,new,,
+11,celonis,Senior Software Engineer,"Munich, Germany",2026-09-30,"rest api, microservice, rag, agent, docker",https://job-boards.greenhouse.io/celonis/jobs/7989093003?gh_jid=7989093003,new,,
+10,gitlab,"Intermediate Backend Engineer, Authorization","Bangalore, India",2026-11-06,"express, rest api, rag, agent",https://job-boards.greenhouse.io/gitlab/jobs/8905402002,new,,
+10,celonis,(Senior) Software Engineer - Data Core,"Munich, Germany",2026-11-02,"python, rag, agent",https://job-boards.greenhouse.io/celonis/jobs/8036958003?gh_jid=8036958003,new,,
+9,gitlab,"Senior Backend Engineer, Development Health","Bangalore, India",2026-11-06,"express, rag, agent",https://job-boards.greenhouse.io/gitlab/jobs/8928675002,new,,
